@@ -1,7 +1,9 @@
 .home,
 .hero,
 .intro,
-.intro {
+.intro,
+.author-section,
+.what {
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -21,7 +23,19 @@
   background-size: cover;
 }
 
-.intro {
+.intro,
+.what,
+.author-section {
   padding-top: 50px;
+}
+
+.intro {
+  background-color: #1b222c;
+}
+
+.what {
+}
+
+.author-section {
   background-color: #1b222c;
 }

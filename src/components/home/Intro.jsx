@@ -15,14 +15,14 @@ export default function Intro() {
         and legitimately allowed me to learn about myself and improve
         personally, in ways that help me in my day to day life. Sadly, because
         of the intimidating nature of the genre, many people abandon the journey
-        before they get a chance to realize just captivating it can be.
+        before they get a chance to realize just how captivating it can be.
       </p>
       <p>
         My goal is to help bridge that gap for less experienced fighting game
         players, and help them gain a deeper understanding of the theory behind
         Street Fighter and hopefully allow them to gain a deeper appreciation
-        for the genre, and hopefully gain more confidence inside the game and in
-        their day to day lives.
+        and understanding of why fighting game players are so passionate for the
+        genre.
       </p>
     </div>
   );
