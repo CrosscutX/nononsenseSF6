@@ -31,14 +31,18 @@
   padding: 20px;
 }
 
-.lesson-container p {
+.lesson-container a {
   padding-left: 20px;
   padding-top: 10px;
   padding-bottom: 10px;
-  margin-bottom: 0px;
+  display: block;
+  width: 100%;
+  height: 100%;
+  font-size: 1.2rem;
   cursor: pointer;
 }
 
-.lesson-container p:hover {
-  background-color: rgb(52, 51, 60);
+.lesson-container a:hover {
+  color: rgb(219, 234, 248);
+  background-color: rgb(49, 50, 67);
 }
