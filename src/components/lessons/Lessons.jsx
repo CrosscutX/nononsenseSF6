@@ -1,5 +1,9 @@
 import React from "react";
-
+import "../../styles/lessons.css";
 export default function Lessons() {
-  return <div>Lessons</div>;
+  return (
+    <main className="lessons">
+      <h1>Lessons</h1>
+    </main>
+  );
 }

@@ -11,13 +11,13 @@ export default function What() {
         focusing on. I aim to distill the most necessary information in short
         lessons that aim to not waste your time. Lessons are organized by
         experience level, so there should be something here for just about
-        everyone, from someone booting up ranked for the first time to
+        everyone. From someone booting up ranked for the first time to
         tournament player.
       </p>
       <p>
         My lessons have a bias towards the fundamentals and theory behind
         winning in fighting games. I aim to make it's teaching applicable no
-        matter what character you play, as I firmly believe there are a set of
+        matter what character you play. I firmly believe there are a set of
         fundamental fighting game skills, that when mastered, allow you to be
         effective no matter your choice of character.
       </p>

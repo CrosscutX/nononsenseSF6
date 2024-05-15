@@ -5,8 +5,8 @@ export default function Hero() {
   return (
     <div className="hero">
       <h1>
-        A Simplified Approach to Learning{" "}
-        <span className="red">Street Fighter</span>
+        <span className="white">A Simplified Approach to Learning</span> Street
+        Fighter
       </h1>
       <Link to="/lessons" className="link-button">
         Start here

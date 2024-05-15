@@ -1,4 +1,5 @@
 import React from "react";
+import { Link } from "react-router-dom";
 
 export default function Author() {
   return (
@@ -31,6 +32,9 @@ export default function Author() {
         many different skill levels. This site uses the lessons I've learned
         from that to craft effective lessons that tackle common issues.
       </p>
+      <Link to="/lessons" className="link-button">
+        Start Here
+      </Link>
     </div>
   );
 }
