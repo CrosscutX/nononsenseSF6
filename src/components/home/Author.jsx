@@ -21,14 +21,14 @@ export default function Author() {
       </p>
       <p>
         Fighting games never came easy to me, I lost my first match online in
-        sf4 to a Ryu who jump heavy kick and swept me over and over again.
-        Because I've never had any talent for the genre, I've had to build
-        ironclad fundamentals from the ground up, and I believe this is what
-        makes me uniquely qualified to teach fighting games.
+        Street Fighter 4 to a Ryu who jump heavy kick and swept me over and over
+        again. Because I've never had any talent for the genre, I've had to
+        build ironclad fundamentals from the ground up, and I believe this is
+        what makes me uniquely qualified to teach fighting games.
       </p>
       <p>
         In my free time I've performed free coaching for dozens of people. And
-        during that process I've gotten insight on the struggles of players from
+        during that process I've gained insight on the struggles of players from
         many different skill levels. This site uses the lessons I've learned
         from that to craft effective lessons that tackle common issues.
       </p>
