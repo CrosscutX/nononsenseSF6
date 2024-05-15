@@ -1,8 +1,11 @@
 .home,
-.hero {
+.hero,
+.intro,
+.intro {
   display: flex;
   flex-direction: column;
   align-items: center;
+  width: 100%;
 }
 
 .hero {
@@ -16,4 +19,9 @@
     url("../assets//ryu-shoryuken.jpg");
   background-position: center;
   background-size: cover;
+}
+
+.intro {
+  padding-top: 50px;
+  background-color: #1b222c;
 }
