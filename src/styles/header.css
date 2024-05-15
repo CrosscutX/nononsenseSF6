@@ -1,6 +1,7 @@
 .header {
   background-color: #12151c;
   height: 80px;
+  margin-bottom: 100px;
 }
 
 .header nav {
@@ -14,6 +15,11 @@
 .header-left a {
   color: #b31618;
   font-size: 1.2rem;
+}
+
+.header-right {
+  display: flex;
+  gap: 10px;
 }
 
 .no {
