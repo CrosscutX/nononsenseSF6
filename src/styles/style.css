@@ -53,6 +53,12 @@ p {
   word-break: break-word;
 }
 
+img {
+  margin-bottom: 40px;
+  max-width: 700px;
+  width: 90%;
+}
+
 .link-button {
   display: flex;
   justify-content: center;

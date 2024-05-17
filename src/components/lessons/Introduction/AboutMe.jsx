@@ -1,4 +1,5 @@
 import React from "react";
+import legendImg from "../../../assets/Legend.png";
 
 export default function AboutMe() {
   return (
@@ -18,6 +19,7 @@ export default function AboutMe() {
         beginners tournament during the launch of Street Fighter 6, and I've
         been competing on and off ever since.
       </p>
+      <img src={legendImg} alt="Legend Image" />
       <p>
         Around 2018 I started dabbling in Dragonball FighterZ, where around the
         launch I was competitive in the top 100 of the leaderboards. I was able
