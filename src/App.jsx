@@ -5,6 +5,7 @@ import Home from "./components/home/Home";
 import Lessons from "./components/lessons/Dashboard/Lessons";
 import LessonsLayout from "./components/lessons/LessonsLayout";
 import HowThisWorks from "./components/lessons/Introduction/HowThisWorks";
+import AboutMe from "./components/lessons/Introduction/AboutMe";
 import Mindset from "./components/lessons/Introduction/Mindset";
 import CharacterSelection from "./components/lessons/Introduction/CharacterSelection";
 import Resources from "./components/resources/Resources";
@@ -21,6 +22,7 @@ function App() {
         <Route path="/lessons" element={<LessonsLayout />}>
           <Route index element={<Lessons />} />
           <Route path="howthisworks" element={<HowThisWorks />} />
+          <Route path="aboutme" element={<AboutMe />} />
           <Route path="mindset" element={<Mindset />} />
           <Route path="characterselection" element={<CharacterSelection />} />
         </Route>

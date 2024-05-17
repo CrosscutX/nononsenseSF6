@@ -3,7 +3,7 @@ import React from "react";
 export default function Mindset() {
   return (
     <>
-      <h1>Mindset</h1>
+      <h2>Mindset</h2>
       <p>
         This is probably the most important section that I’m going to write. The
         single most important attribute that you can have as a player is a
