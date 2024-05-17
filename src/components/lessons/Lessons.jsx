@@ -1,9 +1,9 @@
 import React from "react";
-import Introduction from "./Introduction/Introduction";
-import Beginner from "./Beginner/Beginner";
-import Intermediate from "./Intermediate/Intermediate";
-import Advanced from "./Advanced/Advanced";
-import "../../styles/lessons.css";
+import Introduction from "./Introduction";
+import Beginner from "./Beginner";
+import Intermediate from "./Intermediate";
+import Advanced from "./Advanced";
+
 export default function Lessons() {
   return (
     <main className="lessons">

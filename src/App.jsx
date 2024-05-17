@@ -9,6 +9,7 @@ import CharacterSelection from "./components/lessons/Introduction/CharacterSelec
 import Resources from "./components/resources/Resources";
 import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
 import "./styles/style.css";
+import "./styles/lessons.css";
 
 function App() {
   return (
@@ -17,11 +18,29 @@ function App() {
       <Routes>
         <Route exact path="/" element={<Home />} />
         <Route path="/lessons" element={<Lessons />} />
-        <Route path="/lessons/howthisworks" element={<HowThisWorks />} />
-        <Route path="/lessons/mindset" element={<Mindset />}></Route>
+        <Route
+          path="/lessons/howthisworks"
+          element={
+            <div className="lesson-page-container how-this-works">
+              <HowThisWorks />
+            </div>
+          }
+        />
+        <Route
+          path="/lessons/mindset"
+          element={
+            <div className="lesson-page-container mindset">
+              <Mindset />
+            </div>
+          }
+        ></Route>
         <Route
           path="/lessons/characterselection"
-          element={<CharacterSelection />}
+          element={
+            <div className="lesson-page-container character-selection">
+              <CharacterSelection />
+            </div>
+          }
         ></Route>
         <Route path="/resources" element={<Resources />} />
       </Routes>
