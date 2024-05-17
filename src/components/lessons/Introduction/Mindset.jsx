@@ -62,7 +62,7 @@ export default function Mindset() {
         process of playing fighting games much more. At times, I've personally
         been able to achieve a state of gaming nirvana, where expectation melts
         away and you just get to enjoy the act of playing the game. These have
-        been some of my favorite momemnts of playing fighting games, and it's
+        been some of my favorite moments of playing fighting games, and it's
         worth trying to get there.
       </p>
     </>
