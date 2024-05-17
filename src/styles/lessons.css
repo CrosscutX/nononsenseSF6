@@ -4,21 +4,25 @@
   align-items: center;
   width: 100%;
 }
+/* Takes away the back button from the base lessons class */
+.lessons + .link-button {
+  display: none;
+}
 
 .lessons-content,
-.introduction {
+.introduction,
+.beginner {
   display: flex;
   flex-direction: column;
   align-items: center;
   margin: 0, auto;
-  max-width: 90%;
-  min-width: 50%;
+  width: 100%;
   gap: 30px;
 }
 
 .lesson-container {
-  width: 600px;
-  max-width: 600px;
+  max-width: 800px;
+  width: 90%;
   background-color: #1b222c;
   border-radius: 5px;
   border: 1px solid rgb(66, 66, 66);
@@ -51,4 +55,9 @@
   display: flex;
   flex-direction: column;
   align-items: center;
+}
+
+.lessons-page p {
+  max-width: 900px;
+  width: 90%;
 }
