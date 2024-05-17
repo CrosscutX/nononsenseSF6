@@ -6,7 +6,7 @@ import Advanced from "./Advanced";
 
 export default function Lessons() {
   return (
-    <main className="lessons">
+    <div className="lessons">
       <h1>Lessons</h1>
       <div className="lessons-content">
         <Introduction />
@@ -14,6 +14,6 @@ export default function Lessons() {
         <Intermediate />
         <Advanced />
       </div>
-    </main>
+    </div>
   );
 }

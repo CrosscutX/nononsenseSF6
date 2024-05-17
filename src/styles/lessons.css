@@ -46,3 +46,9 @@
   color: rgb(219, 234, 248);
   background-color: rgb(49, 50, 67);
 }
+
+.lessons-page {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}

@@ -1,5 +1,9 @@
 import React from "react";
 
 export default function CharacterSelection() {
-  return <>CharacterSelection</>;
+  return (
+    <>
+      <h1>Character Selection</h1>
+    </>
+  );
 }
