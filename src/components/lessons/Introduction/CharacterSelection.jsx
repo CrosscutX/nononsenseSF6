@@ -22,7 +22,7 @@ export default function CharacterSelection() {
         you simply aren't one of the players that are good enough that you
         couldn't improve by simply training more.
       </p>
-      <h3>An argument for top tiers</h3>
+      <h3>An Argument For Top Tiers</h3>
       <p>
         Perhaps you think I'm full of shit and character is the most important
         thing at all levels(you're wrong, skill is). I'll entertain you

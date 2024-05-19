@@ -18,7 +18,7 @@ export default function Mindset() {
         have conditioned us to want instant gratification whenever we do
         anything, but fighting games stand opposite this philosophy.
       </p>
-      <h3>Get ready to lose, a lot</h3>
+      <h3>Get Ready To Lose, A Lot</h3>
       <p>
         Now I understand I'm not making a good argument for the genre, but stick
         with me. The gratification of fighting games is more of a slow burn.
@@ -36,7 +36,7 @@ export default function Mindset() {
         bare. This fact is completely debilitating to a lot of people, and if
         you let it, it can completely ruin your ability to enjoy these games.
       </p>
-      <h3>It's fine to be bad</h3>
+      <h3>It's Fine To Be Bad</h3>
       <p>
         This is something many people, including me, have struggled with, and
         really I don't have concrete answers on how to overcome it. You will
@@ -53,7 +53,7 @@ export default function Mindset() {
       <a href="https://www.youtube.com/watch?v=-gI1ThG62oc" className="link">
         Case in point
       </a>
-      <h3>Adopt a Growth Mindset</h3>
+      <h3>Adopt A Growth Mindset</h3>
       <p>
         At risk of sounding cliche, I'm going to say that you can definitely
         improve, no matter what your skill level is. Put in the work and trust

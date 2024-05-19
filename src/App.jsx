@@ -8,6 +8,7 @@ import HowThisWorks from "./components/lessons/Introduction/HowThisWorks";
 import AboutMe from "./components/lessons/Introduction/AboutMe";
 import Mindset from "./components/lessons/Introduction/Mindset";
 import CharacterSelection from "./components/lessons/Introduction/CharacterSelection";
+import Execution from "./components/lessons/Introduction/Execution";
 import Resources from "./components/resources/Resources";
 import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
 import "./styles/style.css";
@@ -25,6 +26,7 @@ function App() {
           <Route path="aboutme" element={<AboutMe />} />
           <Route path="mindset" element={<Mindset />} />
           <Route path="characterselection" element={<CharacterSelection />} />
+          <Route path="execution" element={<Execution />} />
         </Route>
         <Route path="/resources" element={<Resources />} />
       </Routes>
