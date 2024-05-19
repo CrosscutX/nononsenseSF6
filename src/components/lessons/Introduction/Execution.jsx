@@ -33,6 +33,12 @@ export default function Execution() {
         having, or reaching out to the community through reddit/discord. The FGC
         is generally very welcoming, don't be afraid to reach out!
       </p>
+      <p>
+        If you are new, practice your execution daily 15-30 minutes after your
+        matches, and you'll be amazed how far you get in a month. Just be
+        consistent and patient with yourself. And keep trying to implement all
+        of your training mode ideas in match.
+      </p>
       <h3>On Modern Controls</h3>
       <p>
         Modern controls seems to be a pretty heated topic among community
