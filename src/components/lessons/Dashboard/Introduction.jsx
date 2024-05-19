@@ -10,6 +10,7 @@ export default function Introduction() {
         <Link to="/lessons/aboutme">About Me</Link>
         <Link to="/lessons/mindset">Mindset</Link>
         <Link to="/lessons/characterselection">Character Selection</Link>
+        <Link to="/lessons/execution">Execution</Link>
       </div>
     </div>
   );
