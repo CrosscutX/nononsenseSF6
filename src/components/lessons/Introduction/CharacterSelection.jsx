@@ -46,6 +46,11 @@ export default function CharacterSelection() {
         characters. This should help free your ego and see things for how they
         really are.
       </p>
+      <p>
+        In the end, the tier lists and character strength will ebb and flow, but
+        your skill remains a constant, and is the only thing that really
+        matters.
+      </p>
     </>
   );
 }

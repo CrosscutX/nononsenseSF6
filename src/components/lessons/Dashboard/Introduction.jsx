@@ -11,6 +11,7 @@ export default function Introduction() {
         <Link to="/lessons/mindset">Mindset</Link>
         <Link to="/lessons/characterselection">Character Selection</Link>
         <Link to="/lessons/execution">Execution</Link>
+        <Link to="/lessons/hardware">Hardware</Link>
       </div>
     </div>
   );
