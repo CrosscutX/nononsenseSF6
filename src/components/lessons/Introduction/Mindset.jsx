@@ -38,9 +38,9 @@ export default function Mindset() {
       </p>
       <h3>It's fine to be bad</h3>
       <p>
-        This is something I and a lot of people have struggled with, and really
-        I don't have concrete answers on how to overcome it. You will likely
-        have to do some soul searching on why losing upsets you.
+        This is something many people, including me, have struggled with, and
+        really I don't have concrete answers on how to overcome it. You will
+        likely have to do some soul searching on why losing upsets you.
       </p>
       <p>
         What I can say is that ego will be the single biggest detriment to your
