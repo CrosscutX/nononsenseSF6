@@ -48,6 +48,14 @@ h3 {
   padding-right: 10px;
 }
 
+h4 {
+  font-size: 1.3rem;
+  align-self: flex-start;
+  margin-bottom: 40px;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
 iframe {
   margin-bottom: 40px;
 }

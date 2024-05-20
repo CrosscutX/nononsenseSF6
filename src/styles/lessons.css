@@ -41,11 +41,12 @@
   width: auto;
 }
 
-.beginner-text {
+.description-text {
   font-size: 1rem;
   padding: 0px;
   margin-bottom: 0px;
   color: #7d7d7d;
+  width: 88%;
 }
 
 .beginner-title-container {
@@ -73,7 +74,7 @@
 }
 
 a.link {
-  color: rgb(111, 52, 111);
+  color: rgb(55, 146, 84);
   margin-bottom: 40px;
 }
 
