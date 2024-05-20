@@ -77,7 +77,7 @@ export default function BeginnerNeutral() {
         This video does an awesome job of giving you a realistic drill that you
         can use to hone your anti-air reactions is a more realistic way. You can
         watch it until about 2:55 to get all the core information. While the
-        video focuses specifically on draogn punches, the drills can be applied
+        video focuses specifically on dragon punches, the drills can be applied
         with any anti-air.
       </p>
       <h4>Learn Your Good Defensive Buttons</h4>
