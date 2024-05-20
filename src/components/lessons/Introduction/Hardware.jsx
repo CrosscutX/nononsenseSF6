@@ -65,7 +65,8 @@ export default function Hardware() {
         >
           Display Lag{" "}
         </a>
-        is a really nice resource that you can use.
+        is a really nice resource that you can use. Otherwise just find one on
+        Amazon.
       </p>
     </>
   );
