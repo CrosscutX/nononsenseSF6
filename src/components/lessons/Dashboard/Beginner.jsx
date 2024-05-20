@@ -4,8 +4,13 @@ export default function Beginner() {
   return (
     <div className="beginner">
       <div className="lesson-container">
-        <h3>Beginner</h3>
-        <Link>Hello</Link>
+        <div className="beginner-title-container">
+          <h3 className="beginner-title">Beginner</h3>
+          <p className="beginner-text">
+            (Start here if you haven't hit master yet)
+          </p>
+        </div>
+        <Link to="/lessons/beginnerneutral">Beginner Neutral</Link>
       </div>
     </div>
   );

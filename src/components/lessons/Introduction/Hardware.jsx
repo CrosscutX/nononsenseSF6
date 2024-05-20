@@ -28,8 +28,8 @@ export default function Hardware() {
         learning it. Gun to my head, I'd say that stick is probably marginally
         worse than pad/leverless, with pad/leverless being about equal. The
         difference is likely not important in the hands of two experienced
-        users, but I believe new players will need to spend a lot of time
-        learning the control method.
+        users, but I believe new players will need to spend a lot more time
+        learning stick than the other two.
       </p>
       <p>
         With that said, if you just find sticks cool, go for it. That's a
@@ -49,8 +49,8 @@ export default function Hardware() {
       <p>
         So what monitor should you get? There's a lot that will be in the realm
         of "good enough" here, but personally I'd make sure to get something
-        nice here, this is by far the most important part for your Street
-        Fighter success. At minimum get yourself a 120hz monitor.
+        nice, this is by far the most important part for your Street Fighter
+        success. At minimum get yourself a 120hz monitor.
       </p>
       <p>"But Crosscut, fighting games run at 60fps, 120hz doesn't matter."</p>
       <p>

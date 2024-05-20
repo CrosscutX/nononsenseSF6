@@ -10,6 +10,7 @@ import Mindset from "./components/lessons/Introduction/Mindset";
 import CharacterSelection from "./components/lessons/Introduction/CharacterSelection";
 import Execution from "./components/lessons/Introduction/Execution";
 import Hardware from "./components/lessons/Introduction/Hardware";
+import BeginnerNeutral from "./components/lessons/Beginner/BeginnerNeutral";
 import Resources from "./components/resources/Resources";
 import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
 import "./styles/style.css";
@@ -29,6 +30,7 @@ function App() {
           <Route path="characterselection" element={<CharacterSelection />} />
           <Route path="execution" element={<Execution />} />
           <Route path="hardware" element={<Hardware />} />
+          <Route path="beginnerneutral" element={<BeginnerNeutral />} />
         </Route>
         <Route path="/resources" element={<Resources />} />
       </Routes>
