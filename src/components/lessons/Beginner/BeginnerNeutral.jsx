@@ -74,7 +74,7 @@ export default function BeginnerNeutral() {
         <a href="https://www.youtube.com/watch?v=qhZolR3I_Bw" className="link">
           DreeceDaBeast.{" "}
         </a>
-        This video does an awesome job of giving you a realistic drill that you
+        This video does an awesome job of giving you an effective drill that you
         can use to hone your anti-air reactions is a more realistic way. You can
         watch it until about 2:55 to get all the core information. While the
         video focuses specifically on dragon punches, the drills can be applied
