@@ -11,6 +11,10 @@ export default function Beginner() {
           <h3 className="beginner-title">Beginner</h3>
         </div>
         <Link to="/lessons/beginnerneutral">Neutral</Link>
+        <Link to="/lessons/beginnerdefense">Defense</Link>
+        <Link to="/lessons/beginnerpoking">Poking</Link>
+        <Link to="/lessons/beginnerpressure">Pressure</Link>
+        <Link to="/lessons/beginnercombos">Combos</Link>
       </div>
     </div>
   );

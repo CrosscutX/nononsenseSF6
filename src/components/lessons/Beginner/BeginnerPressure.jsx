@@ -3,7 +3,7 @@ import React from "react";
 export default function BeginnerPressure() {
   return (
     <>
-      <h2>BeginnerPressure</h2>
+      <h2>Beginner Pressure</h2>
     </>
   );
 }
