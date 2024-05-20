@@ -76,7 +76,9 @@ export default function BeginnerNeutral() {
         </a>
         This video does an awesome job of giving you a realistic drill that you
         can use to hone your anti-air reactions is a more realistic way. You can
-        watch it until about 2:55 to get all the core information.
+        watch it until about 2:55 to get all the core information. While the
+        video focuses specifically on draogn punches, the drills can be applied
+        with any anti-air.
       </p>
       <h4>Learn Your Good Defensive Buttons</h4>
       <p>
@@ -97,7 +99,7 @@ export default function BeginnerNeutral() {
       <p>
         The main options that you are going to use this button against is
         countering drive rush and drive impact. These tools will be used
-        religiously by some players, and if not dealt with will have on your
+        religiously by some players, and if not dealt with will have you on your
         back foot the entire match dealing with pressure. The fast startup speed
         allows you to beat the opponent's drive rush to the punch, and the low
         recovery and cancellable nature these buttons allows you to either
