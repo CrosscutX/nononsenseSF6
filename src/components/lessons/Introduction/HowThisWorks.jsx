@@ -16,22 +16,21 @@ export default function HowThisWorks() {
       <p>
         This course is not meant to be binged. This is simply meant to be a
         companion piece for your practice as you're playing the game. I've
-        designed them to be brief, each section no more than a few minutes. I
-        recommend you read a topic at the beginning of your session, and then
-        use your session to experiment with the information given. Fighting
-        games are hard and you need time to digest and apply the information,
-        remember this is a marathon, not a sprint.
+        designed them to be brief, with each section being no more than a few
+        minutes. I recommend you read a topic at the beginning of your play
+        session, then use your session to experiment with the information given.
+        Fighting games are hard and you need time to digest and apply the
+        information. This is a marathon, not a sprint.
       </p>
       <p>
-        Finally, this course is not meant to be the be all and end all of your
-        fighting game journey. It’s simply a biased opinion from an experienced
-        player. While I believe there’s a lot of people that this information
-        could help, there’s really no substitute for tons of grinding and work
-        fighting against other very strong players. I’m not naive enough to
-        think that I could give you the answers to every fighting game issue
-        that you’ll run into in one single guide, which is why this guide is
-        intended to give you the basis behind how to work through the issues
-        yourself.
+        This course is not meant to "be the be all and end all" of your fighting
+        game journey. It’s simply a biased opinion from an experienced player.
+        While I believe there are a lot of people that could benefit from this
+        information, there’s really no substitute for tons of grinding the game
+        and playing against other strong players. I’m not naive enough to think
+        that I could give you the answers to every fighting game issue in one
+        single guide, so this guide is intended to give you the basis behind how
+        to work through the issues yourself.
       </p>
       <p>
         Finally, if you are here, thanks for reading this. It means a lot that

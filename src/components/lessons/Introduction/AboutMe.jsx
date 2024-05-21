@@ -16,7 +16,7 @@ export default function AboutMe() {
         fair shair of tournaments in the Ohio local scene. I first became
         fascinated with fighting games in 2015 when I picked up Street Fighter
         4, and ever since I've been hopelessly addicted. In 2016 I entered a
-        beginners tournament during the launch of Street Fighter 6, and I've
+        beginners tournament during the launch of Street Fighter 5, and I've
         been competing on and off ever since.
       </p>
       <img src={legendImg} alt="Legend Image" />
