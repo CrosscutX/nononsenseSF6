@@ -66,7 +66,7 @@ export default function BeginnerDefense() {
         you can apply is sweeping someone's sweep(although, even this has some
         outliers with sweeps like Chun-Li's who is minus 7).
       </p>
-      <h3>Don't get overwhelmed</h3>
+      <h3>Don't Get Overwhelmed</h3>
       <p>
         You aren't going to develop a dense knowledge of frame data in a day,
         just like execution, think of this as an ongoing iterative process.
