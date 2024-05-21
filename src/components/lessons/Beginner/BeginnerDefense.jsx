@@ -54,7 +54,7 @@ export default function BeginnerDefense() {
       </p>
       <h3>Common Advantagous Buttons</h3>
       <h4>Jabs chained together</h4>
-      <h4>Some st. MPs</h4>
+      <h4>Some MPs</h4>
       <h4>Lots of buttons after drive rush</h4>
       <h4>Lots of buttons during burnout</h4>
       <h4>Some special moves</h4>
