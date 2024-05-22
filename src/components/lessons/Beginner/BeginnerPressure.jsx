@@ -78,8 +78,8 @@ export default function BeginnerPressure() {
         While there's much more we could talk about in terms of pressure, these
         3 options are already enough to open up every single player on the
         planet. No single option exists that can beat all 3. So mastering these
-        core pressure options can quite literally take you to evo, everything
-        else is supplementary.
+        core pressure options can quite literally take you to evo finals,
+        everything else is supplementary.
       </p>
     </>
   );
