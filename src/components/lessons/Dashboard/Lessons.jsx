@@ -11,8 +11,8 @@ export default function Lessons() {
       <div className="lessons-content">
         <Introduction />
         <Beginner />
-        <Intermediate />
-        <Advanced />
+        {/* <Intermediate />
+        <Advanced /> */}
       </div>
     </div>
   );
