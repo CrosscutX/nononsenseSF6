@@ -1,5 +1,5 @@
 import React from "react";
 
 export default function Resources() {
-  return <div>r</div>;
+  return <div className="resources">Todo</div>;
 }
